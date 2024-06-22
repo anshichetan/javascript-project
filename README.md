@@ -1,3 +1,3 @@
 # javascript-project
 This is the javascript project
-demo project
+demo project (anshicleartagit status)
